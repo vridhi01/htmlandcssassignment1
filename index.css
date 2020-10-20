@@ -1,0 +1,32 @@
+    body {
+        background-color: #d7e7f4 !important;
+    }
+    
+    .headerdiv {
+        width: 954px;
+        height: 100vh;
+        background-color: #fff;
+        margin: 0 70px 0 150px;
+    }
+    
+    .styleimg {
+        margin-left: 22px;
+    }
+    
+    .rightlink {
+        float: right !important;
+        margin-right: 22px !important;
+    }
+    
+    .loginstyle {
+        color: #007BAF !important;
+        text-decoration: underline;
+        font-weight: bold;
+    }
+    
+    .line {
+        content: '';
+        height: 18%;
+        width: 954px;
+        border-bottom: 4px solid #000000;
+    }
