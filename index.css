@@ -1,0 +1,83 @@
+    body {
+        background-color: #d7e7f4 !important;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .headerdiv {
+        width: 954px;
+        background-color: #fff;
+        margin: 0 auto;
+        height: 100vh;
+    }
+    
+    .styleimg {
+        margin-top: 3px;
+        margin-left: -13px;
+    }
+    
+    .div1 {
+        float: left;
+        margin-left: 22px;
+    }
+    
+    .div2 {
+        float: right;
+        margin-top: 20px;
+        margin-right: 22px;
+    }
+    
+    li {
+        list-style-type: none;
+    }
+    
+    .loginstyle {
+        color: #007BAF !important;
+        text-decoration: underline;
+        font-weight: bold;
+        margin-left: 118px;
+        font-family: sans-serif;
+        font-size: 15px;
+    }
+    
+    .styleinput {
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: 3px solid #cccccc38;
+        transition: 0.5s;
+        outline: none;
+        float: left;
+        height: 28px;
+        width: 194px;
+    }
+    
+     ::placeholder {
+        font-weight: bold;
+    }
+    
+    .stylesearch {
+        height: 26px;
+        float: left;
+        margin-left: 8px;
+        margin-top: 9px;
+    }
+    
+    .innerdiv2 {
+        margin-top: 11px;
+    }
+    
+    .innerdiv1 {
+        margin-top: 3px;
+    }
+    
+    .footerdiv {
+        height: 100px;
+        width: 100px;
+    }
+    
+    .line {
+        content: '';
+        border-bottom: 4px solid #000000;
+        padding-top: 271px;
+    }
