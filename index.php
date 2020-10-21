@@ -8,21 +8,19 @@
    </head>
    <body>
       <div class="headerdiv">
-         <div class="div1">
-            <img src="logo.png" class="styleimg"/>
-         </div>
-         <div class="div2">
-            <li ><a href="#" class="loginstyle">Login to My Account</a></li>
-            <div class="innerdiv1">
-               <input type="text" placeholder="Search entire store here..." class="styleinput"> 
+         <div class="maindiv">
+            <div class="div1">
+               <img src="logo.png" class="styleimg"/>
             </div>
-            <div class="innerdiv2">
-               <img src="search.png" class="stylesearch"/>
+            <div class="div2">
+               <li ><a href="#" class="loginstyle">Login to My Account</a></li>
+               <div class="innerdiv1">
+                  <input type="text" placeholder="Search entire store here..." class="styleinput"> 
+                  <img src="search.png" class="stylesearch"/>
+               </div>
             </div>
          </div>
-         <div class="line"> </div>
-       </div>
-      
-    
+         <div class="line"></div>
+      </div>
    </body>
 </html>
